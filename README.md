@@ -28,7 +28,7 @@ The system detects the ball, extracts its coordinates, stores them in a structur
    - Organize dataset using YOLO directory structure
 
 2. **Model Training**
-   - Use pretrained YOLOv8 weights
+   - Use pretrained YOLOv11 weights
    - Fine-tune the model on a single class: `cricket_ball`
 
 3. **Inference & Tracking**
