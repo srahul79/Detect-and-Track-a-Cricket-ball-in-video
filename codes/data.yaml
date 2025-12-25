@@ -1,0 +1,6 @@
+names:
+- ball
+nc: 1
+path: /content/drive/MyDrive/cricket_ball_data
+train: train/images
+val: valid/images
