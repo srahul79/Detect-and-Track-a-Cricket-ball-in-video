@@ -1,4 +1,4 @@
-# 🏏 Cricket Ball Detect & Track in Video
+#  Cricket Ball Detect & Track in Video
 
 This project focuses on **detecting a cricket ball in a video**, **tracking its movement frame by frame**, and **visualizing its trajectory** using a fine-tuned **YOLOv11 object detection model**.
 
